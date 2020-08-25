@@ -1,0 +1,2 @@
+- name: Send email
+  uses: dawidd6/action-send-mail@v2.2.0
